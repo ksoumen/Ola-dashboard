@@ -46,7 +46,22 @@ It contains **simulated OLA ride booking data**, including information about:
 ---
 
 ## 📸 Dashboard Preview  
-*(Add screenshots of your Power BI dashboard here)*
+
+### 📊 Overall Dashboard Overview  
+![Ola Dashboard Snapshot 1](Ola%20dashboard%20snapshort%201.png)
+
+### 💰 Revenue & Payment Analysis  
+![Ola Dashboard Snapshot 2](Ola%20dashboard%20snapshort%202.png)
+
+### 🚗 Vehicle Type Performance  
+![Ola Dashboard Snapshot 3](Ola%20dashboard%20snapshort%203.png)
+
+### 🚫 Cancellations & Reasons  
+![Ola Dashboard Snapshot 4](Ola%20dashboard%20snapshort%204.png)
+
+### ⭐ Ratings & Customer Insights  
+![Ola Dashboard Snapshot 5](Ola%20dashboard%20snapshort%205.png)
+
 
 ---
 
