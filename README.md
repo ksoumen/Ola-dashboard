@@ -50,10 +50,10 @@ It contains **simulated OLA ride booking data**, including information about:
 ### 📊 Overall Dashboard Overview  
 ![Ola Dashboard Snapshot 1](Ola%20dashboard%20snapshort%201.png)
 
-### 💰 Revenue & Payment Analysis  
+### 🚗 Vehicle Type Performance  
 ![Ola Dashboard Snapshot 2](Ola%20dashboard%20snapshort%202.png)
 
-### 🚗 Vehicle Type Performance  
+### 💰 Revenue & Payment Analysis 
 ![Ola Dashboard Snapshot 3](Ola%20dashboard%20snapshort%203.png)
 
 ### 🚫 Cancellations & Reasons  
